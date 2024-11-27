@@ -1,0 +1,22 @@
+label,
+input[type='tel'] {
+    display: block;
+    margin-top: 1em;
+}
+
+*:read-only {
+    font-weight: bold;
+    color: indigo;
+}
+
+
+label,
+input[type='submit'] {
+    display: block;
+    margin-top: 1em;
+}
+
+*:read-only {
+    font-weight: bold;
+    color: indigo;
+}
